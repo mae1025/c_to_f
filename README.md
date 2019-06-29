@@ -1,1 +1,1 @@
-# c_to_f
+# This program can convert °C to °F
